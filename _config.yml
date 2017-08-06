@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 title: This is going to be Charlie Creations
 name: Charlie Creations
 description: This is my beginnger site where I hope to learn to code and add a blog, recipe section and hopefully more. 
+
+permalink: /blog/:year/:month/:day/:title
