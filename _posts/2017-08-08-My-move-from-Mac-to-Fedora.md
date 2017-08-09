@@ -1,7 +1,3 @@
----
-theme: jekyll-theme-cayman
----
-
 ## Intro
 
 I should clarify that I mean Fedora with Gnome Version **3.24.2**.
