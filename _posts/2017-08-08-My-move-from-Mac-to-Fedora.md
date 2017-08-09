@@ -1,3 +1,5 @@
 ### My Move from Mac to Fedora
 
-I should clarify that I mean Fedora with Gnome 3 (I will get the details of which Gnome for you in time).
+I should clarify that I mean Fedora with Gnome Version 3.24.2.
+
+Currently I am testing if this is working nicely. I will write more soon, but it is currently supper time. 
