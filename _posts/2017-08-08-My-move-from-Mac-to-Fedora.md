@@ -1,10 +1,8 @@
-### My Move from Mac to Fedora
+###Intro
 
-I should clarify that I mean Fedora with Gnome Version 3.24.2.
+I should clarify that I mean Fedora with Gnome Version **3.24.2**.
 
 Currently I am testing if this is working nicely. I will write more soon, but it is currently supper time. 
 
-- I am now testing
-- how mark down works
+![Rower](Images/Rower.jpg)
 
-*Is this right* and _this_ **Strong test** 
